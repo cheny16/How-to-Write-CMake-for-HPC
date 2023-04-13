@@ -17,9 +17,9 @@ This repository contains some notes :page_with_curl: and examples on how to writ
       <td rowspan="4"> CPU </td>
     </tr>
     <tr>
-      <td> <a href="https://github.com/cheny16/How-to-Write-CMake-for-HPC/blob/main/MPI/README.md">MPI</a> </td>
+      <td> <a href="https://github.com/cheny16/How-to-Write-CMake-for-HPC/blob/main/MPI">MPI</a> </td>
     </tr>
-      <td> <a href="https://github.com/cheny16/How-to-Write-CMake-for-HPC/blob/main/OpenMP/README.md">OpenMP</a> </td>
+      <td> <a href="https://github.com/cheny16/How-to-Write-CMake-for-HPC/tree/main/OpenMP">OpenMP</a> </td>
     <tr>
       <td> Vectorization </td>
     </tr>
