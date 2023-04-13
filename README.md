@@ -27,12 +27,15 @@ This repository contains some notes :page_with_curl: and examples on how to writ
   
   <tbody>
     <tr>
-      <td rowspan="4"> GPU </td>
+      <td rowspan="5"> GPU </td>
     </tr>
     <tr>
       <td> CUDA </td>
     </tr>
       <td> HIP </td>
+    <tr>
+      <td> <a href="https://github.com/cheny16/How-to-Write-CMake-for-HPC/tree/main/OpenACC">OpenACC</a> </td>
+    </tr>
     <tr>
       <td> ... </td>
     </tr>
